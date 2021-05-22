@@ -1,1 +1,1 @@
-ini adalah file text1
+ini adalah isi dari file text1

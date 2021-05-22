@@ -14,7 +14,10 @@ objective:
 
    e. output yang diharapkan adalah 1.zip yang isinya 2.zip dst sampai 5.zip yang isinya adalah text1.txt sampai text5.txt yang isinya sudah dimodifikasi
 
-2. unzip file nomor 1d, copy ke dalam working directory dan langsung tampilkan isi file tersebut
+   f. outpun yang diharapkan seperti nomor 1e, namun batas zip menggunakan input
+
+
+2. unzip file nomor 1e, copy ke dalam working directory dan langsung tampilkan isi file tersebut
 
 3. zip file text1 seperti nomor 4 namun menggunakan deret fibonacci sampai deret ke 10
 
