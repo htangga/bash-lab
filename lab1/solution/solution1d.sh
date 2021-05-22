@@ -23,6 +23,6 @@ do
     then
         rm -f text$i.txt
     else
-        rm -rf ${i}.zip text$i.txt $((i-1)).zip
+        rm -rf ${i}.zip
     fi
 done
