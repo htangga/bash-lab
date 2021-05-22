@@ -12,8 +12,8 @@ objective:
    d. output langsung soal no 1 zip file text1 secara recursive kedalam hingga 5 kali zip tiap level folder sesuai dengan jumlah zip ke -n
    contoh: 1.zip, dibuka isinya 2.zip, dibuka isiya 3.zip dst, sampai 5.zip yang isinya text1
 
-2. unzip file nomor 4, copy ke dalam working directory dan langsung tampilkan isi file tersebut
+2. unzip file nomor 1d, copy ke dalam working directory dan langsung tampilkan isi file tersebut
 
 3. zip file text1 seperti nomor 4 namun menggunakan deret fibonacci sampai deret ke 10
 
-4. unzip file nomor 5 dan langsung tampilkan isi file tersebut
+4. unzip file nomor 3 dan langsung tampilkan isi file tersebut
