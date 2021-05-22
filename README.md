@@ -10,7 +10,9 @@ objective:
    text1.txt menjadi text1.zip dst
 
    d. output langsung soal no 1 zip file text1 secara recursive kedalam hingga 5 kali zip tiap level folder sesuai dengan jumlah zip ke -n
-   contoh: 1.zip, dibuka isinya 2.zip, dibuka isiya 3.zip dst, sampai 5.zip yang isinya text1
+   contoh: 5.zip, dibuka isinya 4.zip dan text5.txt, dibuka isiya 3.zip dan text4.txt, dst, sampai 1.zip yang isinya text1
+
+   e. output yang diharapkan adalah 1.zip yang isinya 2.zip dst sampai 5.zip yang isinya adalah text1.txt sampai text5.txt yang isinya sudah dimodifikasi
 
 2. unzip file nomor 1d, copy ke dalam working directory dan langsung tampilkan isi file tersebut
 
