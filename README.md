@@ -17,8 +17,10 @@ objective:
    f. outpun yang diharapkan seperti nomor 1e, namun batas zip menggunakan input
 
 
-2. unzip file nomor 1e, copy ke dalam working directory dan langsung tampilkan isi file tersebut
+2. unzip file nomor 1e atau 1f, copy ke dalam working directory dan langsung tampilkan isi file tersebut
 
-3. zip file text1 seperti nomor 4 namun menggunakan deret fibonacci sampai deret ke 10
+3. zip file text1 seperti nomor 1e namun menggunakan deret fibonacci sampai deret ke 10
 
-4. unzip file nomor 3 dan langsung tampilkan isi file tersebut
+4. unzip file nomor 1e dan langsung tampilkan isi file tersebut
+
+5. lakukan pencarian file yang ada di dalam zip, kemudian kompress dan tampilkan

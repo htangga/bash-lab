@@ -1,7 +1,7 @@
 #!/bin/bash
  
 #limit input (only number)
-until [[ $num =~ ^[+-]?[1-9]+\.?[0-9]*$ ]]
+until [[ $num =~ ^[1-9]+\.?[0-9]*$ ]]
 do
     read -r -p 'mau berapa kali compress ? ' num 
 done
