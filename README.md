@@ -19,7 +19,8 @@ objective:
 
 2. unzip file nomor 1e atau 1f, copy ke dalam working directory dan langsung tampilkan isi file tersebut
 
-3. zip file text1 seperti nomor 1e namun menggunakan deret fibonacci sampai deret ke 10
+3. a. zip file text1 seperti nomor 1e namun menggunakan deret fibonacci sampai deret ke n menggunakan input
+   b. zip file text1 seperti nomor 1e namun menggunakan deret fibonacci (mundur) mulai dari deret ke n menggunakan input
 
 4. unzip file nomor 1e dan langsung tampilkan isi file tersebut
 
